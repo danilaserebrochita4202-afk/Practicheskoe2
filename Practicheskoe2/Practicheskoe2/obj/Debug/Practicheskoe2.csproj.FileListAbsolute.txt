@@ -1,0 +1,8 @@
+C:\Users\Данила\source\repos\Practicheskoe2\Practicheskoe2\bin\Debug\Practicheskoe2.exe.config
+C:\Users\Данила\source\repos\Practicheskoe2\Practicheskoe2\bin\Debug\Practicheskoe2.exe
+C:\Users\Данила\source\repos\Practicheskoe2\Practicheskoe2\bin\Debug\Practicheskoe2.pdb
+C:\Users\Данила\source\repos\Practicheskoe2\Practicheskoe2\obj\Debug\Practicheskoe2.csproj.AssemblyReference.cache
+C:\Users\Данила\source\repos\Practicheskoe2\Practicheskoe2\obj\Debug\Practicheskoe2.csproj.CoreCompileInputs.cache
+C:\Users\Данила\source\repos\Practicheskoe2\Practicheskoe2\obj\Debug\Practicheskoe2.exe
+C:\Users\Данила\source\repos\Practicheskoe2\Practicheskoe2\obj\Debug\Practicheskoe2.pdb
+C:\Users\Данила\source\repos\Practicheskoe2\Practicheskoe2\obj\Debug\Practicheskoe2.exe.config

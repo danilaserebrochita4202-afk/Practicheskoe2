@@ -1,0 +1,4 @@
+C:\Users\Данила\source\repos\Practicheskoe2\obj\Debug\net9.0\Practicheskoe2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Данила\source\repos\Practicheskoe2\obj\Debug\net9.0\Practicheskoe2.AssemblyInfoInputs.cache
+C:\Users\Данила\source\repos\Practicheskoe2\obj\Debug\net9.0\Practicheskoe2.AssemblyInfo.cs
+C:\Users\Данила\source\repos\Practicheskoe2\obj\Debug\net9.0\Practicheskoe2.csproj.CoreCompileInputs.cache
